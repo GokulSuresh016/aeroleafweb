@@ -514,7 +514,7 @@ section {
   color: #27bf19;
 }
 .about .content p:last-child {
-  color: #5c5c5c;
+  color: #a7a7a7;
   margin-bottom: 0;
 }
 
@@ -627,7 +627,7 @@ section {
   margin-bottom: 15px;
   font-size: 24px;
 }
-.services .icon-box h4 a {
+.services .icon-box h4  {
   color: #ffffff;
   transition: ease-in-out 0.3s;
 }
@@ -1555,6 +1555,7 @@ background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%)
 }
 
 .custombtn{
+  margin-top: 65px;
 	background: #27bf19;
     border: 0;
     padding: 10px 24px;
